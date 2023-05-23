@@ -11,6 +11,9 @@ Repo containing the workspace structure
     ```
     pip3 install --user vcstool
     ```
+    ```
+    pip3 install python3-vcstool
+    ```
 2. Clone this branch
     ```
     git clone git@gitlab.com:obr-a/unityros-ws.git && cd unityros-ws

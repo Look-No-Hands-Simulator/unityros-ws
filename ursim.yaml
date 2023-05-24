@@ -1,7 +1,7 @@
 repositories:
   simulation/unity/unity-assets:
     type: git
-    url: git@gitlab.com:obr-a/simulation/unity/unity-assets.git
+    url: git@gitlab.com:obr-a/simulation/unity-assets.git
     version: master
   simulation/unity/ROS-TCP-Endpoint:
     type: git

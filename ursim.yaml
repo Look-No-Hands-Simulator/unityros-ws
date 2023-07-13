@@ -6,11 +6,11 @@ repositories:
   simulation/unity/ROS-TCP-Endpoint:
     type: git
     url: git@gitlab.com:obr-a/simulation/unity/ROS-TCP-Endpoint.git
-    version: master
+    version: dev-ros2
   simulation/unity/ros_tutorials:
     type: git
     url: git@gitlab.com:obr-a/simulation/unity/ros_tutorials/git
-    version: master
+    version: foxy-devel
   simulation/unity/unity_robotics_demo:
     type: git
     url: git@gitlab.com:obr-a/simulation/unity/unity_robotics_demo.git

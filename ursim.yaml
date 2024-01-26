@@ -1,27 +1,27 @@
 repositories:
   Look-No-Hands-Simulator/unity-assets:
     type: git
-    url: git@github.com:Look-No-Hands-Simulator/unity-assets.git
+    url: https://github.com/Look-No-Hands-Simulator/unity-assets.git
     version: master
   Look-No-Hands-Simulator/ROS-TCP-Endpoint:
     type: git
-    url: git@github.com:Look-No-Hands-Simulator/ROS-TCP-Endpoint.git
+    url: https://github.com/Look-No-Hands-Simulator/ROS-TCP-Endpoint.git
     version: dev-ros2
   Look-No-Hands-Simulator/ros_tutorials:
     type: git
-    url: git@github.com:Look-No-Hands-Simulator/ros_tutorials.git
+    url: https://github.com/Look-No-Hands-Simulator/ros_tutorials.git
     version: foxy-devel
   Look-No-Hands-Simulator/unity_robotics_demo:
     type: git
-    url: git@github.com:Look-No-Hands-Simulator/unity_robotics_demo.git
+    url: https://github.com/Look-No-Hands-Simulator/unity_robotics_demo.git
     version: master
   Look-No-Hands-Simulator/unity_robotics_demo_msgs:
     type: git
-    url: git@github.com:Look-No-Hands-Simulator/unity_robotics_demo.git
+    url: https://github.com/Look-No-Hands-Simulator/unity_robotics_demo_msgs.git
     version: master
   Look-No-Hands-Simulator/unityros_launch:
     type: git
-    url: git@github.com:Look-No-Hands-Simulator/unityros_launch.git
+    url: https://github.com/Look-No-Hands-Simulator/unityros_launch.git
     version: master
   
 

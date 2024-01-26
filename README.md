@@ -16,7 +16,7 @@ Repo containing the workspace structure
     ```
 2. Clone this branch
     ```
-    git clone git@github.com:Look-No-Hands-Simulator/unityros-ws.git && cd unityros-ws
+    git clone https://github.com/Look-No-Hands-Simulator/unityros-ws.git && cd unityros-ws
     ```
 4. Import set of repositories
     ```

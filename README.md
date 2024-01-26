@@ -31,6 +31,11 @@ vcs pull src < ursim.yaml
 ```
 
 ### Build everything
+Remember to source ROS!
+```
+source opt/ros/<distro, probably foxy?>/setup.bash
+```
+Build it all.
 ```
 colcon build --symlink-install
 ```
